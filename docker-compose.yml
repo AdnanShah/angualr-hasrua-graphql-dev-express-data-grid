@@ -48,5 +48,3 @@ services:
       start_period: 5s
 volumes:
   db_data:
-# connection string
-# Driver={ODBC Driver 17 for SQL Server};Server=eiottawa.database.windows.net;Database=AZUREDBX1;UID=eidev;PWD=ThisDatabaseIsInAzure!;
